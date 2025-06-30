@@ -2,7 +2,7 @@
 
 # Operation Difference
 
-![Problem Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Problem Difficulty](https://img.shields.io/badge/Difficulty-Hard-red)
 ![Sorting](https://img.shields.io/badge/-Sorting-blue)
 
 ## Background
