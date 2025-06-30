@@ -42,15 +42,15 @@ Print a single integer representing the absolute difference between the number o
 ## Sample Input/Output
 
 ### Sample Input:
-```
-6
-1 2 3 6 4 5
-```
+<pre>
+<strong>6
+1 2 3 6 4 5</strong>
+</pre>
 
 ### Sample Output:
-```
-0
-```
+<pre>
+<strong>0</strong>
+</pre>
 
 ### Explanation:
 It takes 2 swaps to sort the array using both bubble sort and selection sort, so the absolute difference is |2 - 2| = 0.
