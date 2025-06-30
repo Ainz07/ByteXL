@@ -2,8 +2,8 @@
 
 # Operation Difference
 
-[![Problem Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)](https://leetcode.com/tag/sorting)
-[![Sorting](https://img.shields.io/badge/-Sorting-blue)](https://leetcode.com/tag/sorting)
+![Problem Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Sorting](https://img.shields.io/badge/-Sorting-blue)
 
 ## Background
 
@@ -54,7 +54,7 @@ It takes 2 swaps to sort the array using both bubble sort and selection sort, so
 <!-- examples:end -->
 
 
-## Code Implementation
+## Solution
 
 <!-- tabs:start -->
 
