@@ -1,8 +1,8 @@
 n = int(input())
 arr = list(map(int, input().split()))
-c, s = map(int, input().split())
+c_cmp, c_swap = map(int, input().split())
 
-def bsort(arr, c, s):
+def bubble_sort(arr, c, s):
     cost = 0
     n = len(arr)
     swapped = True
@@ -25,4 +25,4 @@ def bsort(arr, c, s):
 
     return cost
 
-print(bsort(arr, c, s))
+print(bubble_sort(arr, c_cmp, c_swap))
