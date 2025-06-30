@@ -11,7 +11,7 @@ Bubble Sort is useful when the array is nearly sorted, as it can terminate early
 This is because if no swaps happen in a pass, it means that the array is already sorted. Breaking the loop early 
 in such cases improves performance, preventing unnecessary iterations.
 
-## Objective
+## Objectives
 
 Given an array of integers along with the costs associated with comparison and swap operations, find the total cost incurred by Bubble Sort to sort the array in increasing order, ensuring that the algorithm terminates early when the array becomes sorted.
 
