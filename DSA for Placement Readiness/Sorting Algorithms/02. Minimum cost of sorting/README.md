@@ -1,6 +1,6 @@
 <!-- problem:start -->
 
-# Minimum cost of sorting
+# Operation Difference
 
 ![Problem Difficulty](https://img.shields.io/badge/Difficulty-Hard-red)
 ![Sorting](https://img.shields.io/badge/-Sorting-blue)
